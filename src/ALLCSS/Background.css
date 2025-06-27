@@ -1,0 +1,20 @@
+.background{
+    background-image: url('https://images8.alphacoders.com/132/1323371.png');
+    height: 100vh;
+}
+
+.big_box{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    background-color: rgb(253, 231, 213);
+    height: 65vh;
+    width: 500px;
+    position: relative;
+    top: 50px;
+}
+.statusline{
+    text-decoration: line-through;
+}
