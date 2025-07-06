@@ -1,3 +1,5 @@
+
+
 # 📝 React To-Do List App
 
 A simple and responsive To-Do List application built using React and Bootstrap. Users can add, remove, and manage tasks with ease.
@@ -15,7 +17,8 @@ A simple and responsive To-Do List application built using React and Bootstrap. 
 
 ## 📸 Screenshots
 
-<img src="screenshots/task-added.png" width="400" />
+![home png](https://github.com/user-attachments/assets/aba800d4-dc01-4379-a847-58f2b5de4af3)
+
 
 > Screenshots are located in the `/screenshots` folder
 
